@@ -1,2 +1,2 @@
 # mvvm
-practice 
+practice app
